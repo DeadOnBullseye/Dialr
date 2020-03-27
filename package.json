@@ -1,0 +1,23 @@
+{
+  "name": "dialr",
+  "version": "1.0.0",
+  "description": "Realtime Chat App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadOnBullseye/Dialr.git"
+  },
+  "author": "Griffin Bunnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeadOnBullseye/Dialr/issues"
+  },
+  "homepage": "https://github.com/DeadOnBullseye/Dialr#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
